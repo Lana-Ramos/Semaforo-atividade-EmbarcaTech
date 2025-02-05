@@ -19,6 +19,14 @@ Este repositório, feito para fins educativos, utiliza um microcontrolador Raspb
 
 Ao iniciar o programa pelo simulador ou pela sua placa, o led vermelho irá acender e esperar 3 segundos até desligar, então o led amarelo será aceso e após 3 segundos o led verde. Assim se mantém um ciclo como de um semáforo enquanto o sistema imprime uma mensagem a cada segundo pela porta serial, até o programa ser interrompido. 
 
+# Linguaguem Utilizada
+
+**C**
+
 # Autor 
 
 Lana Ramos Gomes
+
+# Licença
+
+Repositório criado para fins educacionais
